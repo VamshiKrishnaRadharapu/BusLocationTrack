@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ACE BUS</string>
+    <string-array name="RouteNames">
+        <item>LOCATION</item>
+        <item>RTC X ROADS</item>
+        <item>HMT NAGAR</item>
+        <item>BHONGIR</item>
+        <item>VINAYAKA NAGAR</item>
+        <item>MIYAPUR</item>
+        <item>CHANDRAYAN GUTTA</item>
+        <item>HASTHINA PURAM</item>
+        <item>BALAPUR</item>
+        <item>BALAJI TEMPLE</item>
+        <item>UPPAL X ROAD</item>
+        <item>CHIKKADPALLY</item>
+        <item>CHINTAL</item>
+        <item>LALAPET</item>
+        <item>ATTAPUR</item>
+        <item>AFZAL GUNJ</item>
+        <item>HB COLONY</item>
+    </string-array>
+</resources>

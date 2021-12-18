@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389366841381",
+    "firebase_url": "https://acebustrap-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "acebustrap",
+    "storage_bucket": "acebustrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389366841381:android:6de3d4379104e8837affcc",
+        "android_client_info": {
+          "package_name": "com.example.acebustrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389366841381-hbqihnbfi8c4mpu743rg7m18bc11l62f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acebustrap",
+            "certificate_hash": "d7ba847d625d630fcf607d7fd42528ae82cea0d1"
+          }
+        },
+        {
+          "client_id": "389366841381-16gqde4f664mhjt0k699nth0t3rcs5ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbRBmOfXyoMmduEltnautsiZmUopotug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389366841381-16gqde4f664mhjt0k699nth0t3rcs5ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
